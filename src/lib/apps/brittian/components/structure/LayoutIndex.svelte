@@ -4,10 +4,12 @@
 	import Footer from './Footer.svelte';
 </script>
 
-<div class="app">
+<div class="min-h-full">
 	<Header />
 	<Body>
 		<slot />
 	</Body>
 	<Footer />
 </div>
+
+

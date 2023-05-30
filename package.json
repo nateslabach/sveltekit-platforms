@@ -29,6 +29,8 @@
     "@sveltejs/adapter-vercel": "^2.4.3",
     "@threlte/core": "^6.0.0-next.7",
     "@threlte/extras": "^5.0.0-next.13",
+    "flowbite": "^1.6.5",
+    "flowbite-svelte": "^0.37.2",
     "three": "^0.152.2"
   }
 }

@@ -1,7 +1,6 @@
 <script lang='ts'>
 	import { onMount } from 'svelte';
 	import { appId } from '$lib/stores/app';
-	import Logos from '$lib/components/Logos.svelte'
 	
 	let LayoutIndex: ConstructorOfATypedSvelteComponent;
 
@@ -30,4 +29,3 @@
 </svelte:component>
 
 
-<Logos />
